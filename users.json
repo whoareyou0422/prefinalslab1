@@ -1,0 +1,37 @@
+{
+  "user1": {
+    "company": "Company A",
+    "Name":"John Doe",
+    "Position":"Manager",
+    "Location":"New York",
+    "id":1
+  },
+  "user2": {
+    "company": "Company A",
+    "Name":"Angelica Addams",
+    "Position":"Supervisor",
+    "Location":"Massachusetts",
+    "id":1
+  },
+  "user3": {
+    "company": "Company B",
+    "Name":"Anthony Strong",
+    "Position":"Security",
+    "Location":"Texas",
+    "id":1
+  },
+  "user4": {
+    "company": "Company C",
+    "Name":"Tammir Masala",
+    "Position":"Scientist",
+    "Location":"New Orleans",
+    "id":1
+  },
+  "user5": {
+    "company": "Company B",
+    "Name":"Li Xiu",
+    "Position":"IT Consultant",
+    "Location":"California",
+    "id":1
+  }
+}
